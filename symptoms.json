@@ -1,0 +1,17 @@
+{
+  "fever": {
+    "keywords": ["fever", "bukhar", "high temperature", "temperature"],
+    "disease": "Viral Infection",
+    "advice": "Take rest, drink fluids, and paracetamol."
+  },
+  "cough": {
+    "keywords": ["cough", "khansi"],
+    "disease": "Common Cold",
+    "advice": "Drink warm water, take cough syrup."
+  },
+  "headache": {
+    "keywords": ["headache", "sar dard"],
+    "disease": "Migraine / Stress",
+    "advice": "Rest and stay hydrated."
+  }
+}
