@@ -5,7 +5,7 @@ from google import genai
 app = Flask(__name__)
 
 # Client setup
-client = genai.Client(api_key="AIzaSyA0NYskjcJ8s0wnLzN95hvapHva0dbCHKQ")
+client = genai.Client(api_key="Gemini_API_KEY")
 
 @app.route('/')
 def home():
